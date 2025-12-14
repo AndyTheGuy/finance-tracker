@@ -1,8 +1,4 @@
-import BudgetTracker from '../components/BudgetTracker'
-
-export default function Home() {
-  return <BudgetTracker />
-}'use client'
+'use client'
 
 import dynamic from 'next/dynamic'
 
